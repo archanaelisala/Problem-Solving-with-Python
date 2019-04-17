@@ -5,4 +5,6 @@ To impart hands on training on visual programming tools such as Scratch and Rapt
 
 step1--> we need three variables.
 
-step2--> excute maxnumber.py
+step2--> Read the input from the user for three variables
+
+step3--> excute maxnumber.py
