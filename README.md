@@ -10,3 +10,8 @@ To impart hands on training on visual programming tools such as Scratch and Rapt
   step3--> excute maxnumber.py
 
  # GCD Of Two Numbers
+ 
+ # Multiplication Table
+   step1-->Read the input from the user for Multiplication
+   
+   step2-->I have used the for loop to display the multiplication table for the given input
