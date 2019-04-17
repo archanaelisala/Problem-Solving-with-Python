@@ -1,13 +1,13 @@
 #finding Maximumber
 
 #A value
-a=int(input("Enter the value of a"))
+a=int(input("Enter a value"))
 
 #B value
-b=int(input("Enter the value of b"))
+b=int(input("Enter b value"))
 
 #C value
-c=int(input("Enter the value of c"))
+c=int(input("Enter c value"))
 
 
 #finding through IF condition
