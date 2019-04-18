@@ -1,6 +1,8 @@
 # Problem-Solving-with-Python
 To impart hands on training on visual programming tools such as Scratch and Raptor, Flowchart design tools such as Raptor and Python to solve complex problems.
 
+Day-1:
+
  # 1.Finding maximum of 3 number
   step1--> we need three variables.
   step2--> Read the input from the user for three variables
@@ -13,5 +15,5 @@ To impart hands on training on visual programming tools such as Scratch and Rapt
  # 4.Simple Interest
  # 5.Compound Interest
  # 6.Fibonacci series Generation
- 
+ # 7.Prime Number Generation
  
