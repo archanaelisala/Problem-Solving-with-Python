@@ -12,5 +12,7 @@ To impart hands on training on visual programming tools such as Scratch and Rapt
    step2-->I have used the for loop to display the multiplication table for the given input
  # 4.Simple Interest
  # 5.Compound Interest
+ # 6.Prime Number or Not
+ # 7.Fibonacci series Generation
  
  
